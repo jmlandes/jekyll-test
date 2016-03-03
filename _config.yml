@@ -13,8 +13,8 @@ url:              http://jmlandes.github.io
 baseurl:          /jekyll-test/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Magus'
+  url:            http://jmlandes.github.io
 
 paginate:         5
 
