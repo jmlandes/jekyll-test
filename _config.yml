@@ -13,7 +13,7 @@ url:              http://jmlandes.github.io
 baseurl:          /jekyll-test/
 
 author:
-  name:           'Magus'
+  name:           'James'
   url:            http://jmlandes.github.io
 
 paginate:         5
